@@ -1,9 +1,7 @@
 .film-list {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
     overflow: auto;
-    height: 700px;
     margin-bottom: 120px;
 }
 
@@ -12,6 +10,7 @@
     justify-content: center;
     width: 100%;
     padding-top: 30px;
+    margin-bottom: 20px;
     font-weight: bolder;
     font-size: large;
 }

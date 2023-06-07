@@ -12,7 +12,7 @@ export default function Header() {
         <div className="header-container__title">
           Podróże przez filmy małe i duże :D
         </div>
-        <div className="header-container__logo">XD</div>
+        <div className="header-container__logo">MS</div>
       </div>
     </header>
   );
