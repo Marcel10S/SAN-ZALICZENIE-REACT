@@ -1,0 +1,42 @@
+export const Movies = [
+  {
+    name: "Zemsta faraona mumii",
+    description: "Faraon mumia znowu dewastuje kosmos III. Akcja jak w I i II ale z okrojonym budżetem",
+    length: 120,
+    rating: 9.41,
+    type: "Dramat obyczajowy",
+    image: "mumia.jpg",
+  },
+  {
+    name: "Laserowy gniew dzidy",
+    description: "Opowieść o porwaniu papy do sąsiedniej galaktyki (Wersja w kolorze)",
+    length: 117,
+    rating: 8.34,
+    type: "Opowieść nowoczesna",
+    image: "dzida.jpg",
+  },
+  {
+    name: "Wściekłe pięści węża I",
+    description: "Klasyk polskich sztuk walki i konematografi",
+    length: 60,
+    rating: 9.92,
+    type: "Klasyka kina akcji",
+    image: "piesci.jpg",
+  },
+  {
+    name: "Wściekłe pięści węża II, Sarnie źniwo",
+    description: "Rozszerzenie klasyka jakim była 1 część, Mega akcja !!!!",
+    length: 70,
+    rating: 9.94,
+    type: "Klasyka kina akcji",
+    image: "piesci_2.jpg",
+  },
+  {
+    name: "Egzorcysta (Serial netflix)",
+    description: "Opowieści o przygodach egzorcyscy bonnera w okolicach Warszawy",
+    length: 100,
+    rating: 9.31,
+    type: "Serial",
+    image: "boner.jpg",
+  },
+]
